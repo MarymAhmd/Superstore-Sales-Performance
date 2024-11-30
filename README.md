@@ -5,6 +5,6 @@ This project was developed as the Final Project for the Digital Egypt Pioneers I
 
 Team Members:
 Maryam Ahmed (Team Leader)
-Maha Ghoniem
-Tasneem Ahmed
-Ahmed Abdelqawy
+,Maha Ghoniem
+,Tasneem Ahmed
+And Ahmed Abdelqawy
